@@ -1,5 +1,5 @@
 {
-    "name": "tenbulls/yii2-authorizenet",
+    "name": "devtrekker/yii2-authorizenet",
     "description": "YII2 Authorizenet Gateway Extension",
     "type": "yii2-extension",
     "keywords": ["yii2 authorizenet extension"],
