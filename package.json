@@ -1,0 +1,21 @@
+{
+  "name": "yii2-authorizenet",
+  "version": "1.0.0",
+  "description": "Add quick support to Authorize.NET in Yii2",
+  "keywords": [
+    "authorizenet",
+    "yii2"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/devtrekker/yii2-authorizenet.git"
+  },
+  "homepage": "https://github.com/devtrekker/yii2-authorizenet",
+  "author": {
+    "name": "Dev Trekker",
+    "url": "https://github.com/devtrekker/yii2-authorizenet"
+  },
+  "license": "BSD 3",
+  "bugs": "https://github.com/devtrekker/yii2-authorizenet/issues",
+  "github": "https://github.com/devtrekker/yii2-authorizenet"
+}
