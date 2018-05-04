@@ -1,0 +1,22 @@
+{
+    "name": "tenbulls/yii2-authorizenet",
+    "description": "YII2 Authorizenet Gateway Extension",
+    "type": "yii2-extension",
+    "keywords": ["yii2 authorizenet extension"],
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "AK",
+            "email": "tenbulls007@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "authorizenet/authorizenet": "~1.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "devtrekker\\authorizenet\\": ""
+        }
+    }
+}
